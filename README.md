@@ -1,1 +1,1 @@
-Edits to the readme file in the branch.
+Here is a conflict.
